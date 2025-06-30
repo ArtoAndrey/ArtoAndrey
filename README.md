@@ -6,6 +6,6 @@
 - 📫 How to reach me:
   1. [LinkedIn](https://www.linkedin.com/in/andrei-martynenko-36303b214/)
   2. Telegram: @ArtoAndrei
-  3. [Resume](https://hh.ru/resume/74dfc7a5ff0daa10af0039ed1f5a6965623134)
+  3. [Resume](https://hh.ru/resume/a65d6b78ff0e6aa39d0039ed1f6f705579336b)
 
 
