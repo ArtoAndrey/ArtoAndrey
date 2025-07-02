@@ -8,4 +8,5 @@
   2. Telegram: @ArtoAndrei
   3. [Resume](https://hh.ru/resume/a65d6b78ff0e6aa39d0039ed1f6f705579336b)
 
+![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=ArtoAndrey)
 
