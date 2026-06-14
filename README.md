@@ -10,11 +10,7 @@
 
 ![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=ArtoAndrey)
 
-<p>
-  <img src="https://shields.io" alt="Python" />
-  <img src="https://shields.io" alt="Pandas" />
-  <img src="https://shields.io" alt="NumPy" />
-  <img src="https://shields.io" alt="FastAPI" />
-  <img src="https://shields.io" alt="SQL" />
-  <img src="https://shields.io" alt="Git" />
-</p>
+### 🛠️ Tech Stack & Skills
+* **Data Science / Analysis:** `Python` • `Pandas` • `NumPy` • `SciPy` • `Phik Correlation` • `EDA`
+* **Backend Development:** `FastAPI` • `Pydantic` • `REST API`
+* **Tools & Databases:** `SQL` • `Git / GitHub` • `Jupyter Notebook`
