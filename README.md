@@ -8,7 +8,6 @@
     2. Telegram: @ArtoAndrei
     3. [Resume](https://hh.ru)
 
-![Visitor Count](https://laobi.icu)
 
 ### 🛠️ Tech Stack & Professional Skills
 
