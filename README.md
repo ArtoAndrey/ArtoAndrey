@@ -15,3 +15,4 @@
 * **Data Analysis & Statistics:** `Python (Pandas, NumPy, SciPy, SQLAlchemy)` • `SQL` • `PostgreSQL` • `Phik Correlation` • `Statistical Testing (ADF)`
 * **BI & Visual Analytics:** `Yandex DataLens` • `PowerBI` • `Plotly Graph Objects` • `Data Storytelling`
 * **Processes & Infrastructure:** `TimeSeries Decomposition` • `ETL Pipelines` • `Git / GitHub` • `GPU Acceleration` • `BPMN / UML / Chen`
+
