@@ -14,4 +14,4 @@
 * **Machine Learning & Modeling:** `CatBoost` • `LightGBM` • `Optuna` • `Scikit-Learn` • `Predictive Modeling`
 * **Data Analysis & Statistics:** `Pandas` • `NumPy` • `SciPy` • `Phik Correlation` • `Statistical Testing (ADF)`
 * **Time Series & Analytics:** `TimeSeries Decomposition` • `Trend & Seasonality Analysis` • `EDA`
-* **Tools & Infrastructure:** `SQL` • `Git / GitHub` • `Jupyter Notebook` • `GPU Acceleration`
+* **Tools & Infrastructure:** `SQL` • `Git / GitHub` • `Jupyter Notebook` 
