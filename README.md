@@ -11,6 +11,7 @@
 ![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=ArtoAndrey)
 
 ### 🛠️ Tech Stack & Skills
-* **Data Science / Analysis:** `Python` • `Pandas` • `NumPy` • `SciPy` • `Phik Correlation` • `EDA`
-* **Backend Development:** `FastAPI` • `Pydantic` • `REST API`
-* **Tools & Databases:** `SQL` • `Git / GitHub` • `Jupyter Notebook`
+* **Machine Learning & Modeling:** `CatBoost` • `LightGBM` • `Optuna` • `Scikit-Learn` • `Predictive Modeling`
+* **Data Analysis & Statistics:** `Pandas` • `NumPy` • `SciPy` • `Phik Correlation` • `Statistical Testing (ADF)`
+* **Time Series & Analytics:** `TimeSeries Decomposition` • `Trend & Seasonality Analysis` • `EDA`
+* **Tools & Infrastructure:** `SQL` • `Git / GitHub` • `Jupyter Notebook` • `GPU Acceleration`
