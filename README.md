@@ -1,9 +1,9 @@
 ## Hi there 👋
 
-- 🚀 **Data Analyst & Team Lead** with 8+ years of engineering experience in heavy industries (Mining & Metallurgy/ Oil & Gas).
-- 📊 **Key Impact:** Expert in digitizing business processes (MRO, reliability, and commissioning), turning raw data into high-value IT solutions.
-- 💡 **Track Record:** Processed 70+ GB of unstructured data, built NLP classifiers (0.88 F1-score), and automated 80+ hours of manual reporting per month.
-- 📫 **How to reach me:**
+-  **Data Analyst & Team Lead** with 8+ years of engineering experience in heavy industries (Mining & Metallurgy/ Oil & Gas).
+-  **Key Impact:** Expert in digitizing business processes (MRO, reliability, and commissioning), turning raw data into high-value IT solutions.
+-  **Track Record:** Processed 70+ GB of unstructured data, built NLP classifiers (0.88 F1-score), and automated 80+ hours of manual reporting per month.
+-  **How to reach me:**
     1. [LinkedIn](in/andrei-martynenko-36303b214)
     2. Telegram: @ArtoAndrei
     3. [Resume](https://hh.ru/resume/278f18d9ff0f3549a80039ed1f435432575863)
